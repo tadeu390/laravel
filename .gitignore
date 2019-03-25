@@ -1,0 +1,12 @@
+.env
+docker-compose.yml
+views/vendor
+validacao/vendor
+rotas/vendor
+rel-um-pra-um/vendor
+rel-um-pra-muitos/vendor
+Model-Query-SQL/vendor
+migrations/vendor
+eloquent/vendor
+controladores/vendor
+cadastro/vendor
