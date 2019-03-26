@@ -10,3 +10,4 @@ migrations/vendor
 eloquent/vendor
 controladores/vendor
 cadastro/vendor
+rel-muitos-pra-muitos/vendor
